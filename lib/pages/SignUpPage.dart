@@ -276,7 +276,7 @@ class _SignupPageState extends State<SignUpPage> {
 
               Center(
                 child: Text(
-                  "@strath",
+                  "@sylvia",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.openSans(
                     color: Color(0xFF4D5903),
