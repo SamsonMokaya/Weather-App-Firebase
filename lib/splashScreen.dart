@@ -58,7 +58,7 @@ class SplashScreen extends StatelessWidget {
               Padding(
                 padding: EdgeInsets.all(15.0),
                 child: Text(
-                  "@weather",
+                  "@sylvia",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.openSans(
                     color: Color(0xFF4D5903),
